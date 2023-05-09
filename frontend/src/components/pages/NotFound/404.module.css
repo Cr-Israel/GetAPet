@@ -1,0 +1,8 @@
+.notfound p {
+    margin-top: 1em;
+}
+
+.notfound p a {
+    color: #16479D;
+    font-weight: bold;
+}
