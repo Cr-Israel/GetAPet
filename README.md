@@ -1,14 +1,7 @@
 # GetAPet
 
 <h2>Descrição do Projeto</h2>
-<p>Get A Pet é uma sistema(SPA) de adoção de Pets. Nele, o usuários e cadastra, com nome, e-mail, telefone e senha.
-O usuário casdastro, ele consegue adotatrr Pets e também colocar algum Pet para adoção.
-O usuáriro pode atualizar as suas informações mudando o nome, e-mail, telefone e senha. Como também consegue colocar
-uma foto sua.
-No momento do cadastro de um Pet, são pedidas alguma informações, como: nome, idade, peso, cor e foto(s).
-O usuário logado no sistema pode agendar uma visita e adotar um Pet.
-O usuário que cadastrou o Pet, libera a adoção do Pet que ele cadastrou, ficando com o Pet com status de adotado.
-É possível atualizar as informações do Pet, como também excluir o cadastro.
+<p>Get A Pet é uma sistema(SPA) de adoção de Pets. Nele, o usuário se cadastra, com nome, e-mail, telefone e senha. O usuário casdastrado, consegue adotar Pets e também colocar algum Pet para adoção. O usuáriro pode atualizar as suas informações mudando o nome, e-mail, telefone e senha. Como também consegue colocar uma foto sua. No momento do cadastro de um Pet, são pedidas alguma informações, como: nome, idade, peso, cor e foto(s). O usuário logado no sistema pode agendar uma visita e adotar um Pet. O usuário que cadastrou o Pet, libera a adoção do Pet que ele cadastrou, ficando com o Pet com status de adotado. É possível atualizar as informações do Pet, como também excluir o cadastro.
 </p>
 
 <h2>Funcionalidades</h2>
@@ -58,9 +51,10 @@ O usuário que cadastrou o Pet, libera a adoção do Pet que ele cadastrou, fica
 # GetAPet
 
 <h2>Description</h2>
-<p>Get A Pet is a single-page application (SPA) for pet adoption. Users can register by providing their name, email, phone number, and password. Once registered, they can adopt pets and also put their own pets up for adoption. Users can update their information by changing their name, email, phone number, password, and profile picture. When registering a pet, users must provide information such as name, age, weight, color, and photo(s). Logged-in users can schedule a visit and adopt a pet. Users who register a pet can release the pet for adoption, changing its status to "adopted". Users can also update pet information and delete a pet's registration.</p>
-<h2>Features</h2>
+<p>Get Get A Pet is a pet adoption system (SPA). In it, the user registers with their name, email, phone number, and password. Once registered, the user can adopt pets and also put a pet up for adoption. The user can update their information by changing their name, email, phone number, and password, and they can also upload a photo of themselves. When registering a pet, certain information is required, such as name, age, weight, color, and photo(s). The logged-in user can schedule a visit and adopt a pet. The user who registered the pet can approve the adoption of the pet they listed, marking the pet as adopted. It is possible to update the pet's information and also delete the registration.
+</p>
 
+<h2>Features</h2>
 <ul>
 	<li>User registration;</li>
 	<li>User profile picture upload and editing;</li>
