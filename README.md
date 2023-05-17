@@ -46,7 +46,7 @@
 <h2>Contribuição</h2>
 <p>Contribuições são sempre bem-vindas! Se você quiser contribuir para o projeto, abra uma pull request com suas alterações e explique o que foi feito. Será um prazer avaliar suas mudanças e discutir ideias com você.</p>
 
-<p>Link do projeto: <a href="https://endearing-belekoy-8479b4.netlify.app/"></a></p>
+<p>Link do projeto: <a>https://endearing-belekoy-8479b4.netlify.app/</a></p>
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 # GetAPet
